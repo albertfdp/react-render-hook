@@ -1,5 +1,5 @@
 {
-  "name": "react-render-hook",
+  "name": "@albertfdp/react-render-hook",
   "version": "1.1.1",
   "description": "Hooks to React.js rendering, to enable access to the virtual DOM (as shown in React devtools)",
   "scripts": {
@@ -10,14 +10,14 @@
   "main": "lib/globalHook.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bruderstein/react-render-hook.git"
+    "url": "https://github.com/albertfdp/react-render-hook.git"
   },
   "author": "Dave Brotherstone <davegb@pobox.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bruderstein/react-render-hook/issues"
+    "url": "https://github.com/albertfdp/react-render-hook/issues"
   },
-  "homepage": "https://github.com/bruderstein/react-render-hook",
+  "homepage": "https://github.com/albertfdp/react-render-hook",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-cli": "^6.7.5",
